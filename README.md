@@ -33,3 +33,6 @@ Profile Page - Written Reviews Tab:
 
 Embed the widget:
 !["Embed the Widget"](*)
+
+Embed the widget:
+!["Embed the Widget"](*)
