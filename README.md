@@ -23,16 +23,13 @@ An application built to aid independent sellers and service providers to create 
 
 ## In Action
 WelcomePage:
-!["Welcome Page"](*)
+!["Welcome Page"](https://github.com/egomatsushita/LHL-Project-Final-CredibleApp/blob/master/public/Credible-WelcomePage.png)
 
 Profile Page - All Reviews Tab:
-!["Profile Page - All Reviews Tab"](*)
+!["Profile Page - All Reviews Tab"](https://github.com/egomatsushita/LHL-Project-Final-CredibleApp/blob/master/public/Credible-ProfilePage-AllReviewsTab.png)
 
 Profile Page - Written Reviews Tab:
-!["Profile Page - Written Reviews Tab"](*)
+!["Profile Page - Written Reviews Tab"](https://github.com/egomatsushita/LHL-Project-Final-CredibleApp/blob/master/public/Credible-ProfilePage-WrittenReviewsTab.png)
 
 Embed the widget:
-!["Embed the Widget"](*)
-
-Embed the widget:
-!["Embed the Widget"](*)
+!["Embed the Widget"](https://github.com/egomatsushita/LHL-Project-Final-CredibleApp/blob/master/public/Credible-EmbedWidget.png)
