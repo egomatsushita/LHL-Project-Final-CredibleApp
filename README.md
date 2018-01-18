@@ -1,27 +1,35 @@
 # Credible
-By Mihalis, Eduardo, Laura
+By Eduardo, Laura, Mihalis
 
-Credible aims to be a global review platform for independent sellers, and service providers ( entrepeneurs ) who want to port their good reputations to multiple platforms. Someone who sells on Ebay and wants to start selling on Etsy has to start garnering a new reputation all over again, but **Credible** solves that problem by providing an external platform and an embedable widget to include in other platforms. 
+## About the Project
+Full stack web application built with Ruby on Rails, React-Rails, PostgreSQL, and Carrierwave.
 
-Access the [live demo](https://rocky-mesa-71507.herokuapp.com/).
+### Problem Statement
+An application built to aid independent sellers and service providers to create their profiles and to show their good reputation on a global review platform.
 
-## Installation
-To run the app on your local machine, clone the repo
-`git clone https://github.com/gitmihalis/reputation-app.git`
-In the reputation-app directory run bundle install
-`bundle install`
-With **postgresql** installed and running on your machine, create the database and run the migrations
-`rails db:create`
-Start the server
-`rails server`
+## Getting Started
+1. Clone the repo: https://github.com/egomatsushita/LHL-Project-Final-CredibleApp
+2. In the CredibleApp directory run bundle install
+3. Install postgresql
+4. Create the database
+5. Run the migrations: rails db:migrate
+6. Start the server: rails server
 
-## Usage
-To start using Credible, sign up as a new user
-Upload an avatar, create a bio and your all set to review
+## Using the Credible App
+1. Create a new user
+2. Create a bio
+3. Upload an avatar
+4. Start reviewing users
 
-## Technology stack
+## In Action
+WelcomePage:
+!["Welcome Page"](*)
 
-- ruby on rails
-- postgresql
-- react-rails 
-- carrierwave
+Profile Page - All Reviews Tab:
+!["Profile Page - All Reviews Tab"](*)
+
+Profile Page - Written Reviews Tab:
+!["Profile Page - Written Reviews Tab"](*)
+
+Embed the widget:
+!["Embed the Widget"](*)
